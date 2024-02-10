@@ -1,0 +1,9 @@
+.board{
+    display: flex;
+    width: 500px;
+    height: 500px;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    background-color: darkgray;
+}

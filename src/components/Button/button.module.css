@@ -1,0 +1,31 @@
+.btn {
+    width: 20px;
+    height: calc(100% - 40px);
+    background-color: coral;
+    position: absolute;
+    border-radius: 5px;
+}
+
+.top{
+    top: 0;
+    height: 40px;
+    width: calc(100% - 80px);
+}
+
+.right{
+    right: 0;
+    width: 20px;
+    height: calc(100% - 80px);
+}
+
+.left{
+    left: 0;
+    width: 20px;
+    height: calc(100% - 80px);
+}
+
+.bottom{
+    bottom: 0;
+    height: 40px;
+    width: calc(100% - 80px);
+}
